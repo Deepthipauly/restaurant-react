@@ -1,0 +1,14 @@
+#c1{
+    transition: .5s ease-in-out;
+    cursor: pointer;
+
+}
+
+#c1:hover{
+    transform: scale(1.05);
+}
+#link{
+
+    text-decoration: none;
+    
+}
